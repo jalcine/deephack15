@@ -98,3 +98,37 @@ input[type="search"]::-webkit-search-decoration,
 input[type="search"]::-webkit-search-cancel-button,
 input[type="search"]::-webkit-search-results-button,
 input[type="search"]::-webkit-search-results-decoration { display: none; }
+
+
+.footerul li {
+    color: #404040;
+    display: inline-block;
+    padding: 5px;
+    margin: 5px;
+    font-size: 0.75rem;
+}
+
+.footerul p {
+    font-size: 0.7rem;
+}
+
+.signindiv {
+    text-align: center;
+}
+
+.signindiv h1 {
+    padding: 2rem 0 20px 0;
+}
+
+.signindiv div {
+    margin: 15px;
+}
+
+.emailInput {
+    width: 15%;
+    height: 25px !important;
+}
+
+.psswdInput {
+    width: 15%;
+}
