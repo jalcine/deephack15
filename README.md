@@ -5,7 +5,14 @@ Notes from <https://etherpad.mozilla.org/pipelineshack-accessme>.
 
 ## Components
 
-  + [ ] Login page
-  + [ ] Forms
+  + [ ] Unified user
+    + [ ] authentication
+    + [ ] registration
+  + [ ] Dashboards for
+    + [ ] Prospects
+    + [ ] Business
+  + [ ] Introduction questionnaire for
+    + [ ] Prospects
+    + [ ] Business
 
 a [Sails](http://sailsjs.org) application
