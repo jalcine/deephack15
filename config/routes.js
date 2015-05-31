@@ -47,5 +47,5 @@ module.exports.routes = {
   ***************************************************************************/
 
   /* FIXME: Update 'foobar' with name to do authentication. */
-  'post /login': 'UsersController.foobar'
+  'post /signup': 'UsersController.register'
 };
